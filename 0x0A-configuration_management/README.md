@@ -1,1 +1,1 @@
-configuratio magt
+this is my project
